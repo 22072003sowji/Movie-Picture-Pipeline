@@ -13,3 +13,4 @@ build/
 eks-describe.json
 smoke-source.json
 codebuild-trust.json
+starter/frontend/.env
